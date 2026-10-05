@@ -85,13 +85,5 @@ The notebook includes analysis and visualizations covering:
 3. Make sure the required Python libraries are installed.
 4. Run the notebook cells from beginning to end.
 
-## 👩‍💻 Author
 
-**Nithya V7**
-
-MIS Student | Data Analysis & Information Systems
-
----
-
-*This project was created for educational and portfolio purposes.*
 
